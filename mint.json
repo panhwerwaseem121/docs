@@ -25,6 +25,12 @@
     "name": "DigitalForce",
     "url": "https://digitalforce.allaboutai.com"
   },
+"tabs": [
+    {
+      "name": "API Reference",
+      "url": "api-reference"
+    }
+  ], 
   "anchors": [
     {
       "name": "Documentation",
