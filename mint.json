@@ -5,14 +5,14 @@
     "dark": "/logo/digitalforce-light.png",
     "light": "/logo/digitalforce-dark.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon-32x32.png",
   "colors": {
     "primary": "#0D9373",
     "light": "#9860ff",
     "dark": "#7756b1",
     "anchors": {
       "from": "#0D9373",
-      "to": "#07C983"
+      "to": "#9860ff"
     }
   },
   "topbarLinks": [
@@ -27,14 +27,9 @@
   },
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://digitalforce-docs.allaboutai.com/"
-    },
-    {
       "name": "Community",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "#"
     }
   ],
   "navigation": [
@@ -42,14 +37,13 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
+        "quickstart"
       ]
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/digitalforce",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/digitalforce"
+    "x": "#",
+    "github": "#",
+    "linkedin": "#"
   }
 }
