@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/digitalforce-dark.png",
-    "light": "/logo/digitalforce-light.png"
+    "dark": "/logo/digitalforce-light.png",
+    "light": "/logo/digitalforce-dark.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
