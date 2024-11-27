@@ -31,7 +31,7 @@
       "url": "api-reference"
     }
   ],
-  <!-- "anchors": [
+  "anchors": [
     {
       "name": "Documentation",
       "icon": "book-open-cover",
@@ -47,17 +47,17 @@
       "icon": "newspaper",
       "url": "https://mintlify.com/blog"
     }
-  ], -->
+  ], 
   "navigation": [
     {
       "group": "Get Started",
       "pages": [
         "introduction",
         "quickstart",
-        <!-- "development" -->
+        "development"
       ]
     },
-    <!-- {
+    {
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
@@ -81,7 +81,7 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
-    } -->
+    }
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
