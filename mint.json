@@ -54,10 +54,10 @@
       "pages": [
         "introduction",
         "quickstart",
-        "development"
+        <!-- "development" -->
       ]
     },
-    {
+    <!-- {
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
@@ -81,7 +81,7 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
-    }
+    } -->
   ],
   "footerSocials": {
     "x": "https://x.com/mintlify",
