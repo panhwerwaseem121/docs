@@ -18,19 +18,19 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:support@allaboutai.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "DigitalForce",
+    "url": "https://digitalforce.allaboutai.com"
   },
-  "tabs": [
+  <!-- "tabs": [
     {
       "name": "API Reference",
       "url": "api-reference"
     }
-  ],
+  ], -->
   "anchors": [
     {
       "name": "Documentation",
