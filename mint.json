@@ -1,18 +1,18 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "DigitalForce Documentation",
+  "name": "Digitalforce Documentation",
   "logo": {
-    "dark": "/logo/digitalforce-light.png",
-    "light": "/logo/digitalforce-dark.png"
+    "dark": "/logo/dark.png",
+    "light": "/logo/light.png"
   },
-  "favicon": "/favicon-32x32.png",
+  "favicon": "/favicon.png",
   "colors": {
-    "primary": "#9860ff",
-    "light": "#9860ff",
-    "dark": "#9860ff",
+    "primary": "#0D9373",
+    "light": "#07C983",
+    "dark": "#0D9373",
     "anchors": {
-      "from": "#9860ff",
-      "to": "#9860ff"
+      "from": "#0D9373",
+      "to": "#07C983"
     }
   },
   "topbarLinks": [
@@ -23,22 +23,56 @@
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://digitalforce.allaboutai.com"
+    "url": "https://app.digitalforce.ai"
   },
   "anchors": [
     {
       "name": "Community",
-      "icon": "slack",
-      "url": "#"
+      "icon": "discord",
+      "url": "https://discord.gg/digitalforce"
+    },
+    {
+      "name": "Blog",
+      "icon": "newspaper",
+      "url": "https://digitalforce.ai/blog"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Getting Started",
       "pages": [
+        "introduction",
         "get-started",
         "workspace-setup"
       ]
+    },
+    {
+      "group": "KIVA Platform",
+      "pages": [
+        "kiva/quickstart",
+        "kiva/keyword-overview",
+        "kiva/serp-metrics",
+        {
+          "group": "Content Optimization",
+          "pages": [
+            "kiva/content-generation",
+            "kiva/chatgpt-optimization",
+            "kiva/user-intent"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "API Reference",
+      "pages": [
+        "api-reference/introduction",
+        "troubleshooting"
+      ]
     }
-  ]
-}
+  ],
+  "footerSocials": {
+    "twitter": "https://twitter.com/digitalforce",
+    "github": "https://github.com/digitalforce",
+    "linkedin": "https://linkedin.com/company/digitalforce"
+  }
+} 
