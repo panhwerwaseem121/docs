@@ -55,9 +55,9 @@
         {
           "group": "Content Optimization",
           "pages": [
+            "kiva/user-intent",
             "kiva/chatgpt-optimization",
-            "kiva/content-generation",
-            "kiva/user-intent"
+            "kiva/content-generation"
           ]
         }
       ]
