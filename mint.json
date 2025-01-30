@@ -42,25 +42,9 @@
       "group": "Getting Started",
       "pages": [
         "introduction",
-        "get-started",
-        "workspace-setup"
+        "get-started"
       ]
     },
-    {
-      "group": "KIVA Platform",
-      "pages": [
-        "kiva/quickstart",
-        "kiva/keyword-overview",
-        "kiva/serp-metrics",
-        {
-          "group": "Content Optimization",
-          "pages": [
-            "kiva/chatgpt-optimization",
-            "kiva/content-generation"
-          ]
-        }
-      ]
-    }
   ],
   "footerSocials": {
     "twitter": "https://twitter.com/digitalforce",
