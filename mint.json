@@ -1,18 +1,18 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Digitalforce Documentation",
+  "name": "DigitalForce Documentation",
   "logo": {
-    "dark": "/logo/dark.png",
-    "light": "/logo/light.png"
+    "dark": "/logo/digitalforce-light.png",
+    "light": "/logo/digitalforce-dark.png"
   },
-  "favicon": "/favicon.png",
+  "favicon": "/favicon-32x32.png",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#9860ff",
+    "light": "#9860ff",
+    "dark": "#9860ff",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#9860ff",
+      "to": "#9860ff"
     }
   },
   "topbarLinks": [
@@ -60,13 +60,6 @@
             "kiva/user-intent"
           ]
         }
-      ]
-    },
-    {
-      "group": "API Reference",
-      "pages": [
-        "api-reference/introduction",
-        "troubleshooting"
       ]
     }
   ],
