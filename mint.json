@@ -42,7 +42,8 @@
       "group": "Getting Started",
       "pages": [
         "introduction",
-        "get-started"
+        "get-started",
+        "kiva/wordpress-how-to-guide"
       ]
     }
   ],
