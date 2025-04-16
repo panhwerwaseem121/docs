@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "DigitalForce Documentation",
+  "name": "Wellows Documentation",
   "logo": {
-    "dark": "/logo/digitalforce-light.png",
-    "light": "/logo/digitalforce-dark.png"
+    "dark": "https://app.wellows.com/media/app/logo-main.png",
+    "light": "https://app.wellows.com/media/app/logo-main.png"
   },
   "favicon": "/favicon-32x32.png",
   "colors": {
