@@ -5,7 +5,7 @@
     "dark": "https://app.wellows.com/media/app/logo-white.png",
     "light": "https://app.wellows.com/media/app/logo-main.png"
   },
-  "favicon": "https://app.wellows.com/media/app/favicon-wellows.png",
+  "favicon": "https://wellows.com/wp-content/themes/wellows/template/media/favicons/favicon-32x32.png",
   "colors": {
     "primary": "#9860ff",
     "light": "#9860ff",
