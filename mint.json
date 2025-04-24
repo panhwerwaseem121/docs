@@ -18,7 +18,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:support-digitalforce@allaboutai.com"
+      "url": "mailto:support@wellows.com"
     }
   ],
   "topbarCtaButton": {
@@ -28,8 +28,8 @@
   "anchors": [
     {
       "name": "Community",
-      "icon": "discord",
-      "url": "https://discord.gg/digitalforce"
+      "icon": "Slack",
+      "url": "https://join.slack.com/t/wellowsofficial/shared_invite/zt-340an3iac-st1h1m_yVxa39f5Id44wsw"
     },
     {
       "name": "Blog",
