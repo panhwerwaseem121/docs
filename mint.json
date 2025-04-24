@@ -23,7 +23,7 @@
   ],
   "topbarCtaButton": {
     "name": "Product Hunt",
-    "url": "https://www.producthunt.com/posts/kiva-3"
+    "url": "https://www.producthunt.com/posts/kiva-by-wellows"
   },
   "anchors": [
     {
@@ -41,7 +41,6 @@
     {
       "group": "Getting Started",
       "pages": [
-        "introduction",
         "get-started",
         "kiva/wordpress-how-to-guide"
       ]
