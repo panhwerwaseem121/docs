@@ -34,7 +34,7 @@
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://digitalforce.ai/blog"
+      "url": "https://wellows.com/"
     }
   ],
   "navigation": [
@@ -47,8 +47,7 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/digitalforce",
-    "github": "https://github.com/digitalforce",
-    "linkedin": "https://linkedin.com/company/digitalforce"
+    "youtube": "https://www.youtube.com/@wellowsofficial",
+    "linkedin": "https://www.linkedin.com/company/wellowsofficial"
   }
 } 
