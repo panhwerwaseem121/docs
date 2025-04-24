@@ -5,7 +5,7 @@
     "dark": "https://app.wellows.com/media/app/logo-white.png",
     "light": "https://app.wellows.com/media/app/logo-main.png"
   },
-  "favicon": "favicon-32x32-wellows.png",
+  "favicon": "favicon-32x32.png?v=3918",
   "colors": {
     "primary": "#9860ff",
     "light": "#9860ff",
