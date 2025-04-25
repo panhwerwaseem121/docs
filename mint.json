@@ -50,4 +50,9 @@
     "youtube": "https://www.youtube.com/@wellowsofficial",
     "linkedin": "https://www.linkedin.com/company/wellowsofficial"
   }
+  "integrations": {
+    "gtm": {
+        "tagId": "GTM-KMSFLDSL"
+    }
+  }
 } 
