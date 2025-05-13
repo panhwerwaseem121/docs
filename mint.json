@@ -39,10 +39,10 @@
   ],
   "navigation": [
     {
-      "group": "KIVA",
+      "group": "Get started",
       "pages": [
-        "get-started",
-        "introduction"
+        "introduction",
+        "get-started"
       ]
     }
   ],
